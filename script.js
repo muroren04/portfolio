@@ -56,34 +56,7 @@ const workDetails = {
         software: "CLIP STUDIO / Photoshop / Illustrator"
     },
 
-    "calendar-01.png": {
-        title: "Calendar 01｜2026 New Year",
-        content: "2026年の新年をテーマに、親しみやすく見やすいカレンダーを制作しました。",
-        point: "新年らしい明るくカラフルな色合いと、富士山や動物などのイラストを取り入れました。曜日ごとに色を変え、日付が見やすくなるようレイアウトや文字の大きさにもこだわりました。",
-        software: "CLIP STUDIO / Photoshop"
-    },
-
-    "calendar-02.png": {
-        title: "Calendar 02｜2025 Summer",
-        content: "2025年8月の夏をテーマに、海の楽しさや季節感を表現したカレンダーを制作しました。",
-        point: "青や水色を基調に、海や砂浜、動物のイラストを組み合わせ、明るく爽やかな夏らしさを表現しました。日付が見やすくなるよう、色や文字の配置にもこだわりました。",
-        software: "CLIP STUDIO / Photoshop"
-    },
-
-    "calendar-03.png": {
-        title: "Calendar 03｜2025 Halloween",
-        content: "2025年10月のハロウィンをテーマに、秋の季節感を楽しめるカレンダーを制作しました。",
-        point: "紫やオレンジを基調に、星空やお城、カボチャ、おばけなどを取り入れ、ハロウィンらしい幻想的な雰囲気を表現しました。日付が見やすくなるよう、色や文字の配置にもこだわりました。",
-        software: "CLIP STUDIO / Photoshop"
-    },
-
-    "calendar-04.png": {
-        title: "Calendar 04｜2025 Christmas / Winter",
-        content: "2025年12月の冬をテーマに、クリスマスや雪の季節感を楽しめるカレンダーを制作しました。",
-        point: "水色や赤、緑を基調に、雪景色やクリスマスツリー、雪だるまなどを取り入れ、温かみのある冬らしい雰囲気を表現しました。手描き風の質感にもこだわりました。",
-        software: "CLIP STUDIO / Photoshop"
-    },
-
+  
       "logo-animation-01.png": {
         title: "Logo Animation 01 MUROREN",
         content: "光の球体が現れ、ロゴへと変化していく動きを取り入れたロゴアニメーションを制作しました。",
